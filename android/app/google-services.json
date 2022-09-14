@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126619104189",
+    "project_id": "growithangel",
+    "storage_bucket": "growithangel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126619104189:android:f2a0b8858a58fa0ca718d4",
+        "android_client_info": {
+          "package_name": "com.example.growith_angel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126619104189-dn4pr4ud9sgsmbtnaaamqma814b9e0tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.growith_angel",
+            "certificate_hash": "a3b6310ff577248a7e203f5bf7d815dfa56f2ea6"
+          }
+        },
+        {
+          "client_id": "126619104189-ihc5o6e37b4s5n113qd72rgtaldmejub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGa92lo9OeDSizbB0rTd0jnuR8yIgqSzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126619104189-ihc5o6e37b4s5n113qd72rgtaldmejub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
